@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fregotiss&count_bg=%23087832&title_bg=%23171414&icon=trustpilot.svg&icon_color=%23E2EF4C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <!--
 **regotiss/regotiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
